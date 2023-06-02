@@ -1,5 +1,7 @@
 // GainFam.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+// Author: James Fehr
+// Written in C++
+// Date June 1, 2023
 
 #include <iostream>
 void numberfun();
