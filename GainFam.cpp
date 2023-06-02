@@ -18,7 +18,7 @@ int main()
     numberfun();
     askforanumber();
     pastpresentfuture();
-
+    return 0;
 }
 
 bool checkOdd(int num) {
